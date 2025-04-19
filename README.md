@@ -1,23 +1,37 @@
 # Hi 👋, I'm Eamin Khan
 
-I am a Business Information Systems student at the University of Westminster.  
-I would like to do an industrial placement year as part of my degree in the IT sector. I am specifically focused on becoming a Business Analyst or Data Analyst.
+🎓 I'm currently studying **Business Information Systems** at the **University of Westminster** and actively looking for an **industrial placement** in the **IT sector**. I'm particularly interested in roles like **Business Analyst** or **Data Analyst**.
 
-My GitHub showcases the technological projects I have worked on, which have equipped me with the required knowledge, skills, and experience to prepare me for the modern job market.  
-I’m currently learning **Python** and **SQL**.
+💻 This GitHub is where I showcase my projects and the skills I’ve developed through my academic journey. These experiences have helped me build a strong foundation in tech and problem-solving skills that I’m excited to bring into the professional world.
 
-### How to reach me:  
+📚 I’m currently learning **Python** and **SQL** to strengthen my data and backend knowledge.
+
+---
+
+### 🚀 Projects
+
+- **Python Portfolio**  
+  First-year university project focused on developing Python-based problem-solving solutions.
+
+- **Art Gallery Database**  
+  Designed and implemented a relational database for an art museum as part of a coursework project.
+
+- **UN SDGs Website**  
+  Created a website showcasing the **United Nations Sustainable Development Goals** using HTML, CSS, and JavaScript.
+
+> 💡 Check out my repositories to see what I’ve been working on!
+
+---
+
+### 🛠️ Languages & Tools
+
+- HTML5  
+- JavaScript  
+- MySQL  
+- Python  
+
+---
+
+### 📫 How to reach me
+
 📧 khaneamin123@gmail.com
-
-### Languages and Tools:
-- HTML5
-- JavaScript
-- MySQL
-- Python
-
-### Projects:
-- **[Python Portfolio](https://github.com/EaminK10/EaminK10/blob/main/PythonPortfolio.py)**: First-year project at the University of Westminster showcasing Python problem-solving skills.
-- **[Art Gallery Database](https://github.com/EaminK10/EaminK10/blob/main/ArtGalleryDatabase.py)**: First-year project at the University of Westminster, creating an Art Gallery Database for a museum.
-- **[UN SDGs Website](https://github.com/EaminK10/EaminK10/blob/main/UNSDGsWebsite.py)**: First-year project for the University of Westminster, focused on building a website to showcase the United Nations Sustainable Development Goals.
-
-Please check out my repositories to view more of the projects I’ve worked on.
