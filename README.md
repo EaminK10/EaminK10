@@ -10,16 +10,20 @@
 
 ### 🚀 Projects
 
-- **Python Portfolio**  
-  First-year university project focused on developing Python-based problem-solving solutions.
+- **🐍 Python Portfolio Project**  
+  A first-year university project focused on developing Python-based solutions involving data analysis, visualisation, and database operations.
 
-- **Art Gallery Database**  
-  Designed and implemented a relational database for an art museum as part of a coursework project.
+  🔗 Files:  
+  - [`Portfolio.py`](./Portfolio.py): Main script with analysis, visualisation, and SQL tasks  
+  - [`DBOperations.py`](./DBOperations.py): Custom Python module for reading CSVs, creating databases, and writing to SQLite
 
-- **UN SDGs Website**  
-  Created a website showcasing the **United Nations Sustainable Development Goals** using HTML, CSS, and JavaScript.
+- **🎨 Art Gallery Database**  
+  Designed and implemented a relational database for a fictional art museum using MySQL and ERD principles.
 
-> 💡 Check out my repositories to see what I’ve been working on!
+- **🌍 UN SDGs Website**  
+  Developed a website showcasing the **United Nations Sustainable Development Goals** using **HTML**, **CSS**, and **JavaScript**.
+
+> 💡 Check out my repositories to explore more of the work I’ve done!
 
 ---
 
