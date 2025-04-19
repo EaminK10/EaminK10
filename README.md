@@ -15,6 +15,11 @@ I’m currently learning **Python** and **SQL**.
 - MySQL
 - Python
 
+## Python Portfolio:
+
+- **DBOperations.py**: A Python script that includes functions to create and manage a SQLite database, read CSV files, write data into the database, and display tables.
+
+
 ### Projects:
 - **Python Portfolio**: First-year project at the University of Westminster showcasing Python problem-solving skills.
 - **Art Gallery Database**: First-year project at the University of Westminster, creating an Art Gallery Database for a museum.
