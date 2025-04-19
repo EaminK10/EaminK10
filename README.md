@@ -21,9 +21,6 @@
   Designed and implemented a relational database for a fictional art museum using MySQL and ERD principles.  
   📄 [View Coursework PDF](./The%20Art%20Gallery%20Coursework-%20EAMIN%20KHAN.pdf)
 
-- **🌍 UN SDGs Website**  
-  Developed a website showcasing the **United Nations Sustainable Development Goals** using **HTML**, **CSS**, and **JavaScript**.
-
 > 💡 Check out my repositories to explore more of the work I’ve done!
 
 ---
