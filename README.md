@@ -16,7 +16,8 @@ I’m currently learning **Python** and **SQL**.
 - Python
 
 ## Python Portfolio:
-- **[DBOperations.py](https://github.com/EaminK10/EaminK10/blob/main/DBOperations.py)**: A Python script that includes functions to create and manage a SQLite database, read CSV files, write data into the database, and display tables.
+- **[DBOperations.py](https://github.com/EaminK10/PythonPortfolio/blob/main/DBOperations.py)**: A script that includes functions to create/manage a SQLite database, read CSV files, and query tables.
+- **[Portfolio.py](https://github.com/EaminK10/PythonPortfolio/blob/main/Portfolio.py)**: A complete Python project showcasing Pandas, Matplotlib, SQLite, and function reuse across multiple tasks.
 
 ### Projects:
 - **[Python Portfolio](https://github.com/EaminK10/EaminK10/blob/main/PythonPortfolio.py)**: First-year project at the University of Westminster showcasing Python problem-solving skills.
