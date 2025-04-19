@@ -27,10 +27,7 @@
 
 ### 🛠️ Languages & Tools
 
-- HTML5  
-- JavaScript  
-- MySQL  
-- Python  
+- HTML5, JavaScript, MySQL, Python    
 
 ---
 
