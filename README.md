@@ -18,7 +18,8 @@
   - [`DBOperations.py`](./DBOperations.py): Custom Python module for reading CSVs, creating databases, and writing to SQLite
 
 - **🎨 Art Gallery Database**  
-  Designed and implemented a relational database for a fictional art museum using MySQL and ERD principles.
+  Designed and implemented a relational database for a fictional art museum using MySQL and ERD principles.  
+  📄 [View Coursework PDF](./The%20Art%20Gallery%20Coursework-%20EAMIN%20KHAN.pdf)
 
 - **🌍 UN SDGs Website**  
   Developed a website showcasing the **United Nations Sustainable Development Goals** using **HTML**, **CSS**, and **JavaScript**.
