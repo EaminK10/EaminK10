@@ -1,6 +1,6 @@
 # Hi 👋, I'm Eamin Khan
 
-🎓 I'm currently studying **Business Information Systems** at the **University of Westminster** and actively looking for an **industrial placement** in the **IT sector**. I'm particularly interested in roles like **Business Analyst** or **Data Analyst**.
+🎓 I'm currently studying **Business Information Systems** at the **University of Westminster** and currently completing a placement at **Bromley Healthcare CIC** as an **Informatics Trainee**.
 
 💻 This GitHub is where I showcase my projects and the skills I’ve developed through my academic journey. These experiences have helped me build a strong foundation in tech and problem-solving skills that I’m excited to bring into the professional world.
 
